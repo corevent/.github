@@ -11,7 +11,7 @@ Plataforma de gestão de eventos que permite criar e administrar eventos presenc
 
 - [Leonardo Fernando Luzetti](https://github.com/GaMa404)
 - [Lucas de Alencar Gomes](https://github.com/smokeeaasd)
-- [Vinicius Cru Cassemira](https://github.com/ViniciusCassemira)
+- [Vinicius Cruz Cassemira](https://github.com/ViniciusCassemira)
 
 # Documentação
 
