@@ -18,7 +18,7 @@ Plataforma de gestão de eventos que permite criar e administrar eventos presenc
 A documentação do projeto reúne informações detalhadas e importantes, incluindo detalhes do desenvolvimento, funcionalidades implementadas, tecnologias utilizadas e instruções para uso.
 O material completo pode ser acessado pelo link abaixo:
 
-[Documentação do Projeto (em breve)](https://github.com/corevent)
+[Documentação do Projeto](https://github.com/corevent/documentation)
 
 # Entre em contato
 
