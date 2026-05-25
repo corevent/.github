@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../source/corevent.jpg" width="100%">
+  <img src="../source/corevent_logo_light.svg" width="100%">
 </p>
 
 # Corevent
