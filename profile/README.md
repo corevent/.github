@@ -506,7 +506,7 @@ A documentação da API de testes está disponível em: https://corevent-staging
 
 A aplicação possui interfaces mobile e web. O código-fonte da aplicação mobile está disponível no repositório https://github.com/corevent/CoreventMobileApp, enquanto o código-fonte da aplicação web pode ser acessado no repositório https://github.com/corevent/corevent-web.
 
-## Considerações finais
+# 12. Considerações finais
 
 O desenvolvimento deste projeto permitiu a criação de uma aplicação com interfaces mobile e web voltada ao gerenciamento e à participação em eventos, oferecendo funcionalidades como cadastro de usuários, autenticação, criação e visualização de eventos e gerenciamento de ingressos. Foram utilizadas tecnologias como Flutter, NestJS, PostgreSQL e Docker, proporcionando experiência prática no desenvolvimento de aplicações, na integração entre serviços e no gerenciamento de bancos de dados.
 
@@ -515,3 +515,5 @@ O sistema também conta com integração ao ambiente sandbox do PagBank, permiti
 A utilização de ambientes separados de produção e staging, com serviços do Google Cloud Platform, contribui para a organização das implantações e a validação de alterações. Como continuidade do projeto, destacam-se a implementação do repasse aos organizadores, a evolução dos testes, o aprimoramento da segurança e a preparação da integração financeira para operar em produção.
 
 Além do aprendizado técnico, o projeto contribuiu para o desenvolvimento do trabalho em equipe, da organização e da colaboração entre os integrantes, atendendo aos objetivos propostos no contexto acadêmico.
+
+# 13. Referências
