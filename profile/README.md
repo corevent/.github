@@ -30,7 +30,8 @@ Criação e gerenciamento de eventos híbridos
 - [9. Design](#9-design)
 - [10. Protótipo](#10-protótipo)
 - [11. Aplicação](#11-aplicação)
-  - [Considerações finais](#considerações-finais)
+- [12. Considerações finais](#12-considerações-finais)
+- [13. Referências](#13-referências)
 
 </details>
 
@@ -506,7 +507,7 @@ A documentação da API de testes está disponível em: https://corevent-staging
 
 A aplicação possui interfaces mobile e web. O código-fonte da aplicação mobile está disponível no repositório https://github.com/corevent/CoreventMobileApp, enquanto o código-fonte da aplicação web pode ser acessado no repositório https://github.com/corevent/corevent-web.
 
-# 12. Considerações finais
+# 12. Considerações Finais
 
 O desenvolvimento deste projeto permitiu a criação de uma aplicação com interfaces mobile e web voltada ao gerenciamento e à participação em eventos, oferecendo funcionalidades como cadastro de usuários, autenticação, criação e visualização de eventos e gerenciamento de ingressos. Foram utilizadas tecnologias como Flutter, NestJS, PostgreSQL e Docker, proporcionando experiência prática no desenvolvimento de aplicações, na integração entre serviços e no gerenciamento de bancos de dados.
 
