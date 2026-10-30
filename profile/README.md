@@ -517,3 +517,21 @@ A utilização de ambientes separados de produção e staging, com serviços do 
 Além do aprendizado técnico, o projeto contribuiu para o desenvolvimento do trabalho em equipe, da organização e da colaboração entre os integrantes, atendendo aos objetivos propostos no contexto acadêmico.
 
 # 13. Referências
+
+- [Canva](https://canva.com)
+- [Claude Code](https://claude.com/product/claude-code)
+- [Docker](https://www.docker.com)
+- [Docker Hub](https://hub.docker.com)
+- [Dotnet](https://dotnet.microsoft.com/pt-br/apps/maui)
+- [Figma](https://figma.com)
+- [Flutter](https://flutter.dev)
+- [Github](https://github.com)
+- [Google Cloud Plataform - GCP](https://cloud.google.com)
+- [NeonDB](https://neon.com)
+- [NestJS](https://nestjs.com)
+- [Node.js](https://nodejs.org)
+- [PagBank - Developer](https://developer.pagbank.com.br)
+- [PostgreSQL](https://www.postgresql.org)
+- [Scalar API](https://scalar.com)
+- [Trello](https://trello.com)
+- [UML - Object Management Group](https://www.omg.org/spec/UML/)
