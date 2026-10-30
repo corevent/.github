@@ -493,6 +493,26 @@ Figura 16 – Formulário de cadastro de usuário
 
 Fonte: Os autores (2026)
 
+Abaixo se encontram algumas das telas da aplicação Web, destinada aos organizadores de eventos:
+
+<img src="assets/tela-web-cadastro-usuario.png" alt="Formulário de cadastro de usuário (Web)" width="720">
+
+Figura 17 – Formulário de cadastro de usuário (Web)
+
+Fonte: Os autores (2026)
+
+<img src="assets/tela-web-home.png" alt="Meus Eventos" width="720">
+
+Figura 18 – Meus Eventos
+
+Fonte: Os autores (2026)
+
+<img src="assets/tela-web-gerenciando-lote.png" alt="Gerenciamento de lotes de ingressos" width="720">
+
+Figura 19 – Gerenciamento de lotes de ingressos
+
+Fonte: Os autores (2026)
+
 # 10. Protótipo
 
 Figma: https://www.figma.com/design/ce5I8202kcPhVWE0SeW8aY/Telas-Corevent?node-id=0-1&t=AbmCVTskZsm3D3cu-1
